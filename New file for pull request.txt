@@ -1,2 +1,3 @@
 Lorem ipsum
 a line modified on github (remote)
+and a change to it
